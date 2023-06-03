@@ -3,13 +3,13 @@ data_science_term_project
 
 # team member
 
-김의진
+202135744 김의진
 
-김민규
+202035507 김민규
 
-김리나
+202135720 김리나
 
-박민서
+202035520 박민서
 
 # object
 stroke comprehensively with various factor (gender, age, diseases, smoking, etc.).
