@@ -17,6 +17,6 @@ stroke comprehensively with various factor (gender, age, diseases, smoking, etc.
 # process
 
 1. data inspection ( data describe, correlation metrix)
-2. data preprocessing ( fill NaN data using KNN and linear regression, remove outlier)
+2. data preprocessing ( fill NaN data using KNN and linear regression, remove outlier, scaling, encoding)
 3. data analysis ( decisionTree )
 4. evalution ( KFold, RandomForest, AdaboostClassifler, GridSearchCV, SMOTE)
